@@ -2,27 +2,53 @@
 
 [English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
 
-<img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee · 이영상" width="140" align="right">
+<img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee" width="170" align="right">
 
-I build game servers and multiplayer systems in **C++ and C#**. My work connects gameplay, sessions, match state and persistent player data. I also investigate development questions through reproducible experiments and research presentations.
+### Game server programmer · M.S. student
 
-[Portfolio](https://ysl-ryudo.github.io/) · [GitHub](https://github.com/YSL-RyuDo)
+I build the systems that connect players, matches and game data. My work spans C++ game servers, Unity multiplayer integration and research grounded in questions from development.
+
+Currently an **M.S. student in Games (Engineering), Hongik University, Sejong Campus**. Previously an undergraduate researcher and O2CUBE's 2025 Software Team Lead.
+
+[Portfolio](https://ysl-ryudo.github.io/en/) · [Résumé](https://ysl-ryudo.github.io/en/resume/) · [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
 <br clear="right">
 
-## Selected development
+## Selected engineering
 
-| Project | My focus | Access |
+| Project | My engineering focus | Explore |
 |---|---|---|
-| Project Vector | C++ server, gameplay networking, match lifecycle and reconnect integration; actively developing | Private source |
-| [BNB / BnBServer](https://github.com/YSL-RyuDo/BNB) | Multiplayer integration, rewards/shop and the pricing question behind my CISC-W study | Public |
-| [DeathGuider](https://github.com/YSL-RyuDo/DeathGuider) | Team contribution: management, facilities, training and battle preparation | Portfolio fork with upstream credit |
-| GCTLAB | Collaborative platform development: upload validation, storage integration, retry/persistence and operational flows | Private collaboration; brief mention only |
+| **CodeName VAIS** | A match is more than a connection. | [Explore the case](https://ysl-ryudo.github.io/en/work/vector/) |
+| **BNB / BnBServer** | From multiplayer packets to a pricing question. | [Explore the case](https://ysl-ryudo.github.io/en/work/bnb/) |
+| **DeathGuider** | The management systems between battles. | [Explore the case](https://ysl-ryudo.github.io/en/work/deathguider/) |
+| **Magicwar** | Separating network work from database work. | [Explore the case](https://ysl-ryudo.github.io/en/work/magicwar/) |
+| **DumbGuys** | Connecting the lobby to the match. | [Explore the case](https://ysl-ryudo.github.io/en/work/dumbguys/) |
+| **Cylinder** | Dialogue as data, state and interaction. | [Explore the case](https://ysl-ryudo.github.io/en/work/cylinder/) |
+| **RE:BOUND** | One trajectory model, in the editor and the game. | [Explore the case](https://ysl-ryudo.github.io/en/work/rebound/) |
+| **Moonlit Hotel** | Separate puzzle rules from their presentation. | [Explore the case](https://ysl-ryudo.github.io/en/work/moonlit/) |
+| **PitchLab** | Keep heavy processing off the audio callback. | [Explore the case](https://ysl-ryudo.github.io/en/work/pitchlab/) |
 
-Additional work includes Magicwar, DumbGuys, Cylinder, RE:BOUND, Moonlit Hotel and PitchLab. Detailed contribution notes are available in their repositories where access is permitted. Repository ownership is not a claim that team code or third-party assets were solely authored by me.
+**CodeName VAIS** was previously called Project Vector. Its repository names remain unchanged. Public case studies explain private projects without exposing their source.
 
-## Research & poster presentations
+## Education & leadership
 
-- **WISA 2026 · Jeju · First author / poster presenter.** [Game image asset verification with C2PA and perceptual hashing](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification).
-- **CISC-W 2025 · First author / poster presenter.** [Consumption Pattern Analysis of In-Game Pricing Policies Using Convolutional Neural Networks](https://github.com/YSL-RyuDo/BNB#user-content-from-the-game-to-a-research-question). Motivated by BNB's reward/pricing design.
-- **Ongoing independent research:** [MOD-package multi-parent provenance reconstruction](https://github.com/YSL-RyuDo/mod-provenance-research). A separate research project, not the WISA paper or GCTLAB.
+- **2026.09 — Present** · M.S. student · Department of Games (Engineering) — Hongik University, Sejong Campus
+- **2025.03 — 2026.08** · Undergraduate researcher · Game Software — Hongik University, Sejong Campus
+- **2021 — 2026.08** · Bachelor's degree · Game Software — Hongik University, Sejong Campus
+
+### O2CUBE · Software Team Lead, 2025
+
+Led C programming and computer architecture study sessions from March to June 2025. Covered C fundamentals through arrays, and guided a semester of computer architecture study.
+
+- 2025.04 — 2025.07 · Self-directed Learning Club · Completed
+- 2021.04 — 2021.05 · HOLy Learning Community · Completed
+
+## Research & publications
+
+- **WISA 2026 · JEJU · POSTER** — [What survives an image transformation?](https://ysl-ryudo.github.io/en/research/wisa/). First author & poster presenter · Coauthored study.
+- **CISC-W 2025 · POSTER** — [How should a game price its items?](https://ysl-ryudo.github.io/en/research/cisc/). First author & poster presenter · Simulation study.
+- **ONGOING · INDEPENDENT RESEARCH** — [Tracing a package to multiple sources.](https://ysl-ryudo.github.io/en/research/mod/). Separate from WISA and GCTLAB.
+
+### GCTLAB
+
+GCTLAB collaboration: upload validation, storage integration, retry/persistence and operational workflows. Contributions also exist under the JEASSOH commit identity; attribution follows the confirmed work scope rather than account names alone.
