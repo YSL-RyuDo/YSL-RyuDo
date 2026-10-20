@@ -1,6 +1,8 @@
 # Young-Sang Lee, YSL-RyuDo
 
-[English](README.md), [Korean](README.ko.md), [Japanese](README.ja.md)
+<!-- portfolio-languages -->
+[![English (current)](https://ysl-ryudo.github.io/assets/diagrams/language-en-current.svg)](README.md) [![한국어](https://ysl-ryudo.github.io/assets/diagrams/language-ko.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
+<!-- /portfolio-languages -->
 
 <img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee" width="170" align="right">
 

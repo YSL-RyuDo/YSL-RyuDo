@@ -1,6 +1,8 @@
 # 이영상, YSL-RyuDo
 
-[English](README.md), [Korean](README.ko.md), [Japanese](README.ja.md)
+<!-- portfolio-languages -->
+[![English](https://ysl-ryudo.github.io/assets/diagrams/language-en.svg)](README.md) [![한국어 (현재 언어)](https://ysl-ryudo.github.io/assets/diagrams/language-ko-current.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
+<!-- /portfolio-languages -->
 
 <img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee" width="170" align="right">
 
