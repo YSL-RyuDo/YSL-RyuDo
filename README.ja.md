@@ -2,9 +2,13 @@
 
 [English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
 
+<img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee · 이영상" width="140" align="right">
+
 **C++・C#のゲームサーバーとマルチプレイヤーシステム**を開発しています。ゲームプレイ、セッション、試合状態、プレイヤーデータを結び、開発中の課題を実験・研究発表へ発展させています。
 
 [Portfolio](https://ysl-ryudo.github.io/ja/) · [GitHub](https://github.com/YSL-RyuDo)
+
+<br clear="right">
 
 ## 主な開発
 

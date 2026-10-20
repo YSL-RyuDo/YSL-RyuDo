@@ -2,9 +2,13 @@
 
 [English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
 
+<img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee · 이영상" width="140" align="right">
+
 I build game servers and multiplayer systems in **C++ and C#**. My work connects gameplay, sessions, match state and persistent player data. I also investigate development questions through reproducible experiments and research presentations.
 
 [Portfolio](https://ysl-ryudo.github.io/) · [GitHub](https://github.com/YSL-RyuDo)
+
+<br clear="right">
 
 ## Selected development
 
