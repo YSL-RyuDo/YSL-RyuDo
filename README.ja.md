@@ -6,7 +6,7 @@
 
 ### ゲームサーバープログラマー, 修士課程
 
-C++ゲームサーバーとUnityのマルチプレイヤー機能を開発しています。現在はチーム制作のCodeName VAISに取り組み、弘益大学校世宗キャンパスのゲーム学科（工学）修士課程に在籍しています。
+C++ゲームサーバー、UnityのゲームプレイとUI、コンテンツ制作ツールを開発しています。ゲーム経済とアセットの出所に関する研究にも取り組んでいます。現在はCodeName VAISを開発し、弘益大学校世宗キャンパスのゲーム学科（工学）修士課程に在籍しています。
 
 [Portfolio](https://ysl-ryudo.github.io/ja/), [履歴書](https://ysl-ryudo.github.io/ja/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
@@ -16,7 +16,7 @@ C++ゲームサーバーとUnityのマルチプレイヤー機能を開発して
 
 | プロジェクト | 担当した実装 | 関連リンク |
 |---|---|---|
-| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | C++ IOCPサーバー・試合ライフサイクル・再接続状態復元。 | [公開紹介](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 非公開・アクセス権が必要<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 非公開・アクセス権が必要 |
+| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | 購入状態の一貫性、Unity報酬演出、段階的な試合復元。 | [公開紹介](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 非公開・アクセス権が必要<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 非公開・アクセス権が必要 |
 | [Arcana Duel](https://ysl-ryudo.github.io/ja/work/magicwar/) | IOCPワーカー・リソースプール・DB処理の分離。 | [公開紹介](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 非公開・アクセス権が必要<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 非公開・アクセス権が必要 |
 | [Slap Squad](https://ysl-ryudo.github.io/ja/work/bnb/) | Winsockサーバー・マルチプレイヤー連携・価格政策研究。 | [BNB](https://github.com/YSL-RyuDo/BNB), 公開リポジトリ<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 公開リポジトリ |
 

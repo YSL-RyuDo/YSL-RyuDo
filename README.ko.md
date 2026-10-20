@@ -6,7 +6,7 @@
 
 ### 게임 서버 프로그래머, 석사과정
 
-C++ 게임 서버와 Unity 멀티플레이 기능을 개발합니다. 현재 팀 프로젝트 CodeName VAIS를 개발하며 홍익대학교 세종캠퍼스 게임학과(공학) 석사과정에 재학 중입니다.
+C++ 게임 서버, Unity 게임플레이와 UI, 콘텐츠 제작 도구를 개발합니다. 게임 경제와 에셋 출처에 관한 연구도 진행했습니다. 현재 CodeName VAIS를 개발하며 홍익대학교 세종캠퍼스 게임학과(공학) 석사과정에 재학 중입니다.
 
 [Portfolio](https://ysl-ryudo.github.io/ko/), [이력서](https://ysl-ryudo.github.io/ko/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
@@ -16,7 +16,7 @@ C++ 게임 서버와 Unity 멀티플레이 기능을 개발합니다. 현재 팀
 
 | 프로젝트 | 담당 작업 | 프로젝트 링크 |
 |---|---|---|
-| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ IOCP 서버, 경기 수명주기, 재접속 상태 복원. | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 비공개, 접근 권한 필요<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 비공개, 접근 권한 필요 |
+| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | 구매 상태의 일관성, Unity 보상 연출, 단계별 경기 복원. | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 비공개, 접근 권한 필요<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 비공개, 접근 권한 필요 |
 | [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | IOCP 워커, 자원 풀, DB 처리 분리. | [공개 포트폴리오](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 비공개, 접근 권한 필요<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 비공개, 접근 권한 필요 |
 | [슬랩스쿼드, Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | Winsock 서버, 멀티플레이 연동, 가격정책 연구. | [BNB](https://github.com/YSL-RyuDo/BNB), 공개 저장소<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 공개 저장소 |
 

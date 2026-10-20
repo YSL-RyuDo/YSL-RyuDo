@@ -6,7 +6,7 @@
 
 ### Game server programmer, M.S. student
 
-I develop C++ game servers and Unity multiplayer features. I am currently working on CodeName VAIS and studying Games (Engineering) in the master's program at Hongik University, Sejong Campus.
+I develop C++ game servers, Unity gameplay and UI, and content tools. My work also includes game-economy and asset-provenance research. I am currently developing CodeName VAIS and studying Games (Engineering) in the master's program at Hongik University, Sejong Campus.
 
 [Portfolio](https://ysl-ryudo.github.io/en/), [Résumé](https://ysl-ryudo.github.io/en/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
@@ -16,7 +16,7 @@ I develop C++ game servers and Unity multiplayer features. I am currently workin
 
 | Project | My work | Project links |
 |---|---|---|
-| [CodeName VAIS](https://ysl-ryudo.github.io/en/work/vector/) | C++ IOCP server, match lifecycle and reconnect state recovery. | [Public portfolio](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), Private, access required<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), Private, access required |
+| [CodeName VAIS](https://ysl-ryudo.github.io/en/work/vector/) | Purchase consistency, Unity reward presentation and staged match recovery. | [Public portfolio](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), Private, access required<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), Private, access required |
 | [Arcana Duel](https://ysl-ryudo.github.io/en/work/magicwar/) | IOCP workers, resource pools and separate database processing. | [Public portfolio](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), Private, access required<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), Private, access required |
 | [Slap Squad](https://ysl-ryudo.github.io/en/work/bnb/) | Winsock server, multiplayer integration and pricing-policy research. | [BNB](https://github.com/YSL-RyuDo/BNB), Public repository<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), Public repository |
 
