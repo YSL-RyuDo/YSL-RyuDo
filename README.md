@@ -16,19 +16,13 @@ Currently an **M.S. student in Games (Engineering), Hongik University, Sejong Ca
 
 ## Selected engineering
 
-| Project | My engineering focus | Explore |
+| Selected work | My engineering focus | Code |
 |---|---|---|
-| **CodeName VAIS** | Server development & Unity multiplayer integration; Mar 2026 - Present · 10 members: 5 software, 5 graphics | [Explore the case](https://ysl-ryudo.github.io/en/work/vector/) |
-| **Arcana Duel** | Programming: C++ server & Unity game integration; Aug 2025 - Feb 2026 · 2 members: 1 programmer, 1 graphics | [Explore the case](https://ysl-ryudo.github.io/en/work/magicwar/) |
-| **Slap Squad** | Server, network integration & shop/profile systems; Mar 2025 - Feb 2026 · 8 members: 2 programmers, 6 graphics | [Explore the case](https://ysl-ryudo.github.io/en/work/bnb/) |
-| **DeathGuider** | My contribution covers bus/prisoner and storage management, training/recovery/erosion, research and smithing, and unit/equipment selection for battle preparation. Authored commits identify these changes within the shared project. | [Explore the case](https://ysl-ryudo.github.io/en/work/deathguider/) |
-| **DumbGuys** | I worked on account/connection handling, room and player state, store/appearance data and client-side lobby/match integration. | [Explore the case](https://ysl-ryudo.github.io/en/work/dumbguys/) |
-| **Cylinder** | I reworked CSV loading, dialogue nodes/UI, portraits, flags and triggers, and integrated tutorial/cutscene progression. Specific dialogue and emotion-state commits identify my work within the shared YSL branch. | [Explore the case](https://ysl-ryudo.github.io/en/work/cylinder/) |
-| **RE:BOUND** | I built the fall-to-recharge/ascent-attack loop and a workshop for trajectories, enemies, waves and augments. Parameter/formula trajectory authoring shares its evaluator with the game, alongside local ZIP validation. | [Explore the case](https://ysl-ryudo.github.io/en/work/rebound/) |
-| **Moonlit Hotel** | I separated puzzle domain rules from presentation, implemented clear-validation and story editing/export, and gave local MOD stories independent save state. | [Explore the case](https://ysl-ryudo.github.io/en/work/moonlit/) |
-| **PitchLab** | I separated processing and recording from the callback with a DSP worker and bounded FIFOs, investigated WASAPI input formats, and added calibration, diagnostics and WAV regression checks. | [Explore the case](https://ysl-ryudo.github.io/en/work/pitchlab/) |
+| [CodeName VAIS](https://ysl-ryudo.github.io/en/work/vector/) | C++ IOCP server, match lifecycle and reconnect state recovery. | [ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer) · Private · access required<br>[projectVector](https://github.com/YSL-RyuDo/projectVector) · Private · access required |
+| [Arcana Duel](https://ysl-ryudo.github.io/en/work/magicwar/) | IOCP workers, resource pools and separate database processing. | [magicwarserver](https://github.com/YSL-RyuDo/magicwarserver) · Private · access required<br>[magicwar](https://github.com/YSL-RyuDo/magicwar) · Private · access required |
+| [Slap Squad](https://ysl-ryudo.github.io/en/work/bnb/) | Winsock server, multiplayer integration and pricing-policy research. | [BNB](https://github.com/YSL-RyuDo/BNB) · Public repository<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer) · Public repository |
 
-**CodeName VAIS** was previously called Project Vector. Its repository names remain unchanged. Public case studies explain private projects without exposing their source.
+**More work:** [DeathGuider](https://ysl-ryudo.github.io/en/work/deathguider/) · [DumbGuys](https://ysl-ryudo.github.io/en/work/dumbguys/) · [Cylinder](https://ysl-ryudo.github.io/en/work/cylinder/) · [RE:BOUND](https://ysl-ryudo.github.io/en/work/rebound/) · [Moonlit Hotel](https://ysl-ryudo.github.io/en/work/moonlit/) · [PitchLab](https://ysl-ryudo.github.io/en/work/pitchlab/)
 
 ## Education & leadership
 

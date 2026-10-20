@@ -16,19 +16,13 @@
 
 ## 主な開発
 
-| プロジェクト | 担当した実装・設計 | 詳細 |
+| 代表作 | 担当した設計・実装 | コード |
 |---|---|---|
-| **CodeName VAIS** | サーバー開発・Unityマルチプレイヤー連携; 2026.03 - 現在 · 10名：ソフトウェア5名、グラフィック5名 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/vector/) |
-| **Arcana Duel** | プログラミング担当：C++サーバー・Unityゲーム連携; 2025.08 - 2026.02 · 2名：プログラマー1名、グラフィック1名 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/magicwar/) |
-| **Slap Squad** | サーバー・ネットワーク連携・ショップとプロフィール実装; 2025.03 - 2026.02 · 8名：プログラマー2名、グラフィック6名 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/bnb/) |
-| **DeathGuider** | バス・囚人・保管管理、訓練・回復・侵食、研究所・鍛冶、戦闘準備時の人員・装備選択を担当しました。共同プロジェクト内の変更を本人作成コミットで示しています。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/deathguider/) |
-| **DumbGuys** | アカウント・接続処理、ルーム・プレイヤー状態、ショップ・外見データ、クライアントのロビー・試合連携を担当しました。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/dumbguys/) |
-| **Cylinder** | CSV読み込み、会話ノード・UI、肖像、フラグ、トリガーを改修し、チュートリアル・カットシーン進行を連携しました。共同変更を含むYSLブランチでは会話・感情状態のコミットで担当を示します。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/cylinder/) |
-| **RE:BOUND** | 落下で充電・上昇で攻撃するループと、軌道・敵・ウェーブ・強化の制作ツールを実装しました。パラメーター・数式軌道の評価器をゲームとツールで共有し、ローカルZIPを検証します。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/rebound/) |
-| **Moonlit Hotel** | パズルのドメインルールと表示を分離し、クリア検証、物語の編集・書き出し、ローカルMODごとの独立した保存状態を実装しました。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/moonlit/) |
-| **PitchLab** | DSPワーカーと容量制限付きFIFOで処理・録音をコールバックから分離し、WASAPI入力形式を調査しました。入力校正、診断、WAV回帰検証も追加しました。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/pitchlab/) |
+| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | C++ IOCPサーバー・試合ライフサイクル・再接続状態復元。 | [ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer) · 非公開・アクセス権が必要<br>[projectVector](https://github.com/YSL-RyuDo/projectVector) · 非公開・アクセス権が必要 |
+| [Arcana Duel](https://ysl-ryudo.github.io/ja/work/magicwar/) | IOCPワーカー・リソースプール・DB処理の分離。 | [magicwarserver](https://github.com/YSL-RyuDo/magicwarserver) · 非公開・アクセス権が必要<br>[magicwar](https://github.com/YSL-RyuDo/magicwar) · 非公開・アクセス権が必要 |
+| [Slap Squad](https://ysl-ryudo.github.io/ja/work/bnb/) | Winsockサーバー・マルチプレイヤー連携・価格政策研究。 | [BNB](https://github.com/YSL-RyuDo/BNB) · 公開リポジトリ<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer) · 公開リポジトリ |
 
-**CodeName VAIS**の旧仮称はProject Vectorで、リポジトリ名は維持しています。非公開プロジェクトもソースを公開せず開発事例を読めます。
+**その他の開発：** [DeathGuider](https://ysl-ryudo.github.io/ja/work/deathguider/) · [DumbGuys](https://ysl-ryudo.github.io/ja/work/dumbguys/) · [Cylinder](https://ysl-ryudo.github.io/ja/work/cylinder/) · [RE:BOUND](https://ysl-ryudo.github.io/ja/work/rebound/) · [Moonlit Hotel](https://ysl-ryudo.github.io/ja/work/moonlit/) · [PitchLab](https://ysl-ryudo.github.io/ja/work/pitchlab/)
 
 ## 学歴・リーダーシップ
 

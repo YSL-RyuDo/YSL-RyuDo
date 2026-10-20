@@ -16,19 +16,13 @@
 
 ## 주요 개발
 
-| 프로젝트 | 내 구현·설계 | 살펴보기 |
+| 대표작 | 담당 설계·구현 | 코드 |
 |---|---|---|
-| **코드네임 바이스 · CodeName VAIS** | 서버 개발·Unity 멀티플레이 연동; 2026.03 - 현재 · 10명 · 소프트웨어 5명, 그래픽 5명 | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/vector/) |
-| **아르카나 듀얼 · Arcana Duel** | 프로그래밍 담당 · C++ 서버·Unity 게임 연동; 2025.08 - 2026.02 · 2명 · 프로그래머 1명, 그래픽 1명 | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/magicwar/) |
-| **슬랩스쿼드 · Slap Squad** | 서버·네트워크 연동·상점 및 프로필 구현; 2025.03 - 2026.02 · 8명 · 프로그래머 2명, 그래픽 6명 | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/bnb/) |
-| **DeathGuider** | 버스·수감자·보관 관리, 훈련·회복·침식, 연구소·대장장이, 전투 준비의 인원·장비 선택을 담당했습니다. 공동 프로젝트 안에서 작성 커밋으로 해당 변경을 구분합니다. | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/deathguider/) |
-| **DumbGuys** | 계정·연결 처리, 방·플레이어 상태, 상점·외형 데이터와 클라이언트 로비·경기 연동을 작업했습니다. | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/dumbguys/) |
-| **Cylinder** | CSV 로딩, 대화 노드·UI, 초상화, 플래그와 트리거를 개편하고 튜토리얼·컷씬 진행을 연동했습니다. 공용 변경이 섞인 YSL 브랜치에서는 대화·감정 상태 커밋으로 제 작업을 구분합니다. | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/cylinder/) |
-| **RE:BOUND** | 하강 충전·상승 공격 루프와 궤적·적·웨이브·증강 제작 도구를 구현했습니다. 매개변수·수식으로 작성한 궤적은 게임과 제작 도구에서 평가기를 공유하며 로컬 ZIP을 검증합니다. | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/rebound/) |
-| **Moonlit Hotel** | 퍼즐 도메인 규칙과 표현을 분리하고 클리어 검증, 이야기 편집·내보내기와 로컬 MOD별 독립 저장 상태를 구현했습니다. | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/moonlit/) |
-| **PitchLab** | DSP 워커와 bounded FIFO로 콜백에서 처리·녹음을 분리하고 WASAPI 입력 형식을 조사했습니다. 입력 보정·진단과 WAV 회귀 검증도 추가했습니다. | [개발 사례 보기](https://ysl-ryudo.github.io/ko/work/pitchlab/) |
+| [코드네임 바이스 · CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ IOCP 서버·경기 수명주기·재접속 상태 복원. | [ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer) · 비공개 · 접근 권한 필요<br>[projectVector](https://github.com/YSL-RyuDo/projectVector) · 비공개 · 접근 권한 필요 |
+| [아르카나 듀얼 · Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | IOCP 워커·자원 풀·DB 처리 분리. | [magicwarserver](https://github.com/YSL-RyuDo/magicwarserver) · 비공개 · 접근 권한 필요<br>[magicwar](https://github.com/YSL-RyuDo/magicwar) · 비공개 · 접근 권한 필요 |
+| [슬랩스쿼드 · Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | Winsock 서버·멀티플레이 연동·가격정책 연구. | [BNB](https://github.com/YSL-RyuDo/BNB) · 공개 저장소<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer) · 공개 저장소 |
 
-**CodeName VAIS**의 이전 임시 이름은 Project Vector이며 저장소명은 유지합니다. 비공개 프로젝트도 소스를 공개하지 않고 개발 사례를 읽을 수 있습니다.
+**다른 개발:** [DeathGuider](https://ysl-ryudo.github.io/ko/work/deathguider/) · [DumbGuys](https://ysl-ryudo.github.io/ko/work/dumbguys/) · [Cylinder](https://ysl-ryudo.github.io/ko/work/cylinder/) · [RE:BOUND](https://ysl-ryudo.github.io/ko/work/rebound/) · [Moonlit Hotel](https://ysl-ryudo.github.io/ko/work/moonlit/) · [PitchLab](https://ysl-ryudo.github.io/ko/work/pitchlab/)
 
 ## 학력과 리더십
 
