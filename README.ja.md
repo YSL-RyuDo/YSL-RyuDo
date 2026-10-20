@@ -18,15 +18,15 @@
 
 | プロジェクト | 担当した実装・設計 | 詳細 |
 |---|---|---|
-| **CodeName VAIS** | 接続の先にある、試合の状態まで。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/vector/) |
-| **BNB / BnBServer** | マルチプレイヤー実装から価格政策の研究へ。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/bnb/) |
-| **DeathGuider** | 戦闘と戦闘をつなぐ経営システム。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/deathguider/) |
-| **Magicwar** | ネットワーク処理とDB処理の分離。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/magicwar/) |
-| **DumbGuys** | ロビーから試合までをつなぐ。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/dumbguys/) |
-| **Cylinder** | データと状態でつなぐ会話システム。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/cylinder/) |
-| **RE:BOUND** | ゲームと制作ツールで共有する軌道モデル。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/rebound/) |
-| **Moonlit Hotel** | パズルのルールと表示を分離する。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/moonlit/) |
-| **PitchLab** | 重い処理をオーディオコールバックから分離。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/pitchlab/) |
+| **CodeName VAIS** | サーバー開発・Unityマルチプレイヤー連携; 2026.03 - 現在 · 10名：ソフトウェア5名、グラフィック5名 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/vector/) |
+| **Arcana Duel** | プログラミング担当：C++サーバー・Unityゲーム連携; 2025.08 - 2026.02 · 2名：プログラマー1名、グラフィック1名 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/magicwar/) |
+| **Slap Squad** | サーバー・ネットワーク連携・ショップとプロフィール実装; 2025.03 - 2026.02 · 8名：プログラマー2名、グラフィック6名 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/bnb/) |
+| **DeathGuider** | バス・囚人・保管管理、訓練・回復・侵食、研究所・鍛冶、戦闘準備時の人員・装備選択を担当しました。共同プロジェクト内の変更を本人作成コミットで示しています。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/deathguider/) |
+| **DumbGuys** | アカウント・接続処理、ルーム・プレイヤー状態、ショップ・外見データ、クライアントのロビー・試合連携を担当しました。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/dumbguys/) |
+| **Cylinder** | CSV読み込み、会話ノード・UI、肖像、フラグ、トリガーを改修し、チュートリアル・カットシーン進行を連携しました。共同変更を含むYSLブランチでは会話・感情状態のコミットで担当を示します。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/cylinder/) |
+| **RE:BOUND** | 落下で充電・上昇で攻撃するループと、軌道・敵・ウェーブ・強化の制作ツールを実装しました。パラメーター・数式軌道の評価器をゲームとツールで共有し、ローカルZIPを検証します。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/rebound/) |
+| **Moonlit Hotel** | パズルのドメインルールと表示を分離し、クリア検証、物語の編集・書き出し、ローカルMODごとの独立した保存状態を実装しました。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/moonlit/) |
+| **PitchLab** | DSPワーカーと容量制限付きFIFOで処理・録音をコールバックから分離し、WASAPI入力形式を調査しました。入力校正、診断、WAV回帰検証も追加しました。 | [開発事例を見る](https://ysl-ryudo.github.io/ja/work/pitchlab/) |
 
 **CodeName VAIS**の旧仮称はProject Vectorで、リポジトリ名は維持しています。非公開プロジェクトもソースを公開せず開発事例を読めます。
 
@@ -49,6 +49,14 @@
 - **CISC-W 2025 · ポスター発表** — [ゲーム内価格をどう決めるか？](https://ysl-ryudo.github.io/ja/research/cisc/). 筆頭著者・ポスター発表者 · シミュレーション研究.
 - **継続中 · 独立した研究** — [パッケージの複数の出所をたどる。](https://ysl-ryudo.github.io/ja/research/mod/). WISA・GCTLABとは別のプロジェクト.
 
+## 2025 第1回 I2P-CON · 運営チームリーダー・登壇者
+
+- 自ら運営チームを集め、運営責任者としてI2PとO2CUBE共催の第1回在学生ゲーム開発カンファレンスを開催しました。
+- CNN価格政策研究を「データで設計するゲーム経済」として発表。その後、研究を補完してCISC-W 2025のポスター発表につなげました。
+- カンファレンス冊子を制作し、在学生と卒業生に配布しました。公式再生リストでは8件の発表動画を公開しています。
+
+[本人の発表動画](https://www.youtube.com/watch?v=oq_e0TAwvJg) · [I2P-CON](https://www.youtube.com/playlist?list=PLasCP_DA1SqCpSkwDldbMDsLXMayEEKgu)
+
 ### GCTLAB
 
-GCTLABではアップロード検証、ストレージ連携、再試行・永続化、運用フローを担当しました。JEASSOH名義のコミットにも本人の作業が含まれるため、アカウント名だけでなく確認済みの担当範囲で説明しています。
+GCTLABではアップロード検証、ストレージ連携、再試行・永続化、運用フローを担当しました。
