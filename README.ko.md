@@ -6,9 +6,11 @@
 
 <img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee" width="170" align="right">
 
-### 게임 서버 프로그래머, 석사과정
+### 게임 서버 개발자 지망, 석사과정
 
-C++ 게임 서버, Unity 게임플레이와 UI, 콘텐츠 제작 도구를 개발합니다. 게임 경제와 에셋 출처에 관한 연구도 진행했습니다. 현재 CodeName VAIS를 개발하며 홍익대학교 세종캠퍼스 게임학과(공학) 석사과정에 재학 중입니다.
+C++ 게임 서버와 Unity 게임플레이, UI를 구현했습니다.
+
+현재 CodeName VAIS를 개발하고 있습니다.
 
 [Portfolio](https://ysl-ryudo.github.io/ko/), [이력서](https://ysl-ryudo.github.io/ko/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
@@ -18,8 +20,8 @@ C++ 게임 서버, Unity 게임플레이와 UI, 콘텐츠 제작 도구를 개�
 
 | 프로젝트 | 담당 작업 | 프로젝트 링크 |
 |---|---|---|
-| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ 서버, 경기 흐름과 캐릭터 능력 연동, 프로필 편집과 소셜 기능, Unity 제작 도구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/vector/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 비공개, 접근 권한 필요<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 비공개, 접근 권한 필요 |
-| [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | 마법 덱, 캐릭터 조작과 투사체 및 장판, 전투 UI와 IOCP 서버.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/magicwar/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 비공개, 접근 권한 필요<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 비공개, 접근 권한 필요 |
+| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ 서버, 경기 흐름과 캐릭터 능력 연동, 프로필 편집과 소셜 기능, Unity 제작 도구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/vector/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer-public), 공개 소스<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 공개 저장소 |
+| [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | 마법 덱, 캐릭터 조작과 투사체 및 장판, 전투 UI와 IOCP 서버.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/magicwar/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver-public), 공개 소스<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 공개 저장소 |
 | [슬랩스쿼드, Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | 무기 7종, 이동과 맵 상호작용, 경기 결과, C++ 서버와 가격정책 연구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/bnb/#full-scope) | [BNB](https://github.com/YSL-RyuDo/BNB), 공개 저장소<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 공개 저장소 |
 
 **다른 개발:** [DeathGuider](https://ysl-ryudo.github.io/ko/work/deathguider/), [DumbGuys](https://ysl-ryudo.github.io/ko/work/dumbguys/), [Cylinder](https://ysl-ryudo.github.io/ko/work/cylinder/), [RE:BOUND](https://ysl-ryudo.github.io/ko/work/rebound/), [Moonlit Hotel](https://ysl-ryudo.github.io/ko/work/moonlit/), [PitchLab](https://ysl-ryudo.github.io/ko/work/pitchlab/)
@@ -34,7 +36,7 @@ C++ 게임 서버, Unity 게임플레이와 UI, 콘텐츠 제작 도구를 개�
 
 ### 오투큐브, 2025년 소프트팀장
 
-2025년 3~6월 C 언어와 컴퓨터구조 학술회를 진행했습니다. C 언어 기초부터 배열까지 다루고, 한 학기 동안 컴퓨터구조 학습을 이끌었습니다.
+2025년 오투큐브 소프트팀장으로 활동했습니다. C 언어와 컴퓨터구조 학술회는 3~6월에 진행했습니다. C 언어 기초부터 배열까지 다루고, 한 학기 동안 컴퓨터구조 학습을 이끌었습니다.
 
 2025.04 ~ 2025.07, 자기주도학습동아리 수료
 

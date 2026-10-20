@@ -6,9 +6,11 @@
 
 <img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee" width="170" align="right">
 
-### ゲームサーバープログラマー, 修士課程
+### ゲームサーバーエンジニア志望, 修士課程
 
-C++ゲームサーバー、UnityのゲームプレイとUI、コンテンツ制作ツールを開発しています。ゲーム経済とアセットの出所に関する研究にも取り組んでいます。現在はCodeName VAISを開発し、弘益大学校世宗キャンパスのゲーム学科（工学）修士課程に在籍しています。
+C++のゲームサーバーと、Unityのゲームプレイ、UIを実装してきました。
+
+現在はCodeName VAISを開発しています。
 
 [Portfolio](https://ysl-ryudo.github.io/ja/), [履歴書](https://ysl-ryudo.github.io/ja/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
@@ -18,8 +20,8 @@ C++ゲームサーバー、UnityのゲームプレイとUI、コンテンツ制�
 
 | プロジェクト | 担当した実装 | 関連リンク |
 |---|---|---|
-| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | C++サーバー、試合進行と能力連携、プロフィール編集、ソーシャル機能、Unity制作ツール。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/vector/#full-scope) | [公開紹介](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 非公開・アクセス権が必要<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 非公開・アクセス権が必要 |
-| [Arcana Duel](https://ysl-ryudo.github.io/ja/work/magicwar/) | 魔法デッキ、キャラクター操作、弾と領域効果、戦闘UIとIOCPサーバー。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/magicwar/#full-scope) | [公開紹介](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 非公開・アクセス権が必要<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 非公開・アクセス権が必要 |
+| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | C++サーバー、試合進行と能力連携、プロフィール編集、ソーシャル機能、Unity制作ツール。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/vector/#full-scope) | [公開紹介](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer-public), 公開ソース<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 公開リポジトリ |
+| [Arcana Duel](https://ysl-ryudo.github.io/ja/work/magicwar/) | 魔法デッキ、キャラクター操作、弾と領域効果、戦闘UIとIOCPサーバー。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/magicwar/#full-scope) | [公開紹介](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver-public), 公開ソース<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 公開リポジトリ |
 | [Slap Squad](https://ysl-ryudo.github.io/ja/work/bnb/) | 7種の武器、移動とマップ操作、試合結果、C++サーバーと価格政策研究。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/bnb/#full-scope) | [BNB](https://github.com/YSL-RyuDo/BNB), 公開リポジトリ<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 公開リポジトリ |
 
 **その他の開発：** [DeathGuider](https://ysl-ryudo.github.io/ja/work/deathguider/), [DumbGuys](https://ysl-ryudo.github.io/ja/work/dumbguys/), [Cylinder](https://ysl-ryudo.github.io/ja/work/cylinder/), [RE:BOUND](https://ysl-ryudo.github.io/ja/work/rebound/), [Moonlit Hotel](https://ysl-ryudo.github.io/ja/work/moonlit/), [PitchLab](https://ysl-ryudo.github.io/ja/work/pitchlab/)
@@ -34,7 +36,7 @@ C++ゲームサーバー、UnityのゲームプレイとUI、コンテンツ制�
 
 ### O2CUBE, 2025年 ソフトウェアチームリーダー
 
-2025年3～6月にC言語とコンピューターアーキテクチャの勉強会を担当しました。C言語の基礎から配列までを扱い、1学期間のアーキテクチャ学習を進行しました。
+2025年にO2CUBEのソフトウェアチームリーダーを務めました。C言語とコンピューターアーキテクチャの勉強会は3～6月に実施し、C言語の基礎から配列までを扱い、1学期間のアーキテクチャ学習を進行しました。
 
 2025.04 ~ 2025.07, 自主学習サークル 修了
 

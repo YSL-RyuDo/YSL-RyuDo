@@ -6,9 +6,11 @@
 
 <img src="assets/young-sang-lee.jpg" alt="Young-Sang Lee" width="170" align="right">
 
-### Game server programmer, M.S. student
+### Aspiring game server programmer, M.S. student
 
-I develop C++ game servers, Unity gameplay and UI, and content tools. My work also includes game-economy and asset-provenance research. I am currently developing CodeName VAIS and studying Games (Engineering) in the master's program at Hongik University, Sejong Campus.
+I have built C++ game servers and implemented gameplay and UI in Unity.
+
+Currently developing CodeName VAIS.
 
 [Portfolio](https://ysl-ryudo.github.io/en/), [Résumé](https://ysl-ryudo.github.io/en/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
@@ -18,8 +20,8 @@ I develop C++ game servers, Unity gameplay and UI, and content tools. My work al
 
 | Project | My work | Project links |
 |---|---|---|
-| [CodeName VAIS](https://ysl-ryudo.github.io/en/work/vector/) | C++ server, match flow, character abilities, profile editing, social features and Unity production tools.<br>[Full implementation scope](https://ysl-ryudo.github.io/en/work/vector/#full-scope) | [Public portfolio](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), Private, access required<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), Private, access required |
-| [Arcana Duel](https://ysl-ryudo.github.io/en/work/magicwar/) | Spell decks, character control, projectiles and field effects, combat UI and the IOCP server.<br>[Full implementation scope](https://ysl-ryudo.github.io/en/work/magicwar/#full-scope) | [Public portfolio](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), Private, access required<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), Private, access required |
+| [CodeName VAIS](https://ysl-ryudo.github.io/en/work/vector/) | C++ server, match flow, character abilities, profile editing, social features and Unity production tools.<br>[Full implementation scope](https://ysl-ryudo.github.io/en/work/vector/#full-scope) | [Public portfolio](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer-public), Public source<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), Public repository |
+| [Arcana Duel](https://ysl-ryudo.github.io/en/work/magicwar/) | Spell decks, character control, projectiles and field effects, combat UI and the IOCP server.<br>[Full implementation scope](https://ysl-ryudo.github.io/en/work/magicwar/#full-scope) | [Public portfolio](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver-public), Public source<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), Public repository |
 | [Slap Squad](https://ysl-ryudo.github.io/en/work/bnb/) | Seven weapon behaviors, movement and map interactions, match results, C++ server and pricing research.<br>[Full implementation scope](https://ysl-ryudo.github.io/en/work/bnb/#full-scope) | [BNB](https://github.com/YSL-RyuDo/BNB), Public repository<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), Public repository |
 
 **More work:** [DeathGuider](https://ysl-ryudo.github.io/en/work/deathguider/), [DumbGuys](https://ysl-ryudo.github.io/en/work/dumbguys/), [Cylinder](https://ysl-ryudo.github.io/en/work/cylinder/), [RE:BOUND](https://ysl-ryudo.github.io/en/work/rebound/), [Moonlit Hotel](https://ysl-ryudo.github.io/en/work/moonlit/), [PitchLab](https://ysl-ryudo.github.io/en/work/pitchlab/)
@@ -34,7 +36,7 @@ I develop C++ game servers, Unity gameplay and UI, and content tools. My work al
 
 ### O2CUBE, Software Team Lead, 2025
 
-Led C programming and computer architecture study sessions from March to June 2025. Covered C fundamentals through arrays, and guided a semester of computer architecture study.
+Served as Software Team Lead in 2025. The C programming and computer architecture study sessions ran from March to June. Taught C fundamentals through arrays and led the semester's computer architecture study.
 
 2025.04 ~ 2025.07, Self-directed Learning Club, Completed
 
