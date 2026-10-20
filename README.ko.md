@@ -16,9 +16,9 @@ C++ 게임 서버, Unity 게임플레이와 UI, 콘텐츠 제작 도구를 개�
 
 | 프로젝트 | 담당 작업 | 프로젝트 링크 |
 |---|---|---|
-| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | 구매 상태의 일관성, Unity 보상 연출, 단계별 경기 복원. | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 비공개, 접근 권한 필요<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 비공개, 접근 권한 필요 |
-| [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | IOCP 워커, 자원 풀, DB 처리 분리. | [공개 포트폴리오](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 비공개, 접근 권한 필요<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 비공개, 접근 권한 필요 |
-| [슬랩스쿼드, Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | Winsock 서버, 멀티플레이 연동, 가격정책 연구. | [BNB](https://github.com/YSL-RyuDo/BNB), 공개 저장소<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 공개 저장소 |
+| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ 서버, 경기 흐름과 캐릭터 능력 연동, 프로필 편집과 소셜 기능, Unity 제작 도구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/vector/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 비공개, 접근 권한 필요<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 비공개, 접근 권한 필요 |
+| [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | 마법 덱, 캐릭터 조작과 투사체 및 장판, 전투 UI와 IOCP 서버.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/magicwar/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 비공개, 접근 권한 필요<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 비공개, 접근 권한 필요 |
+| [슬랩스쿼드, Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | 무기 7종, 이동과 맵 상호작용, 경기 결과, C++ 서버와 가격정책 연구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/bnb/#full-scope) | [BNB](https://github.com/YSL-RyuDo/BNB), 공개 저장소<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 공개 저장소 |
 
 **다른 개발:** [DeathGuider](https://ysl-ryudo.github.io/ko/work/deathguider/), [DumbGuys](https://ysl-ryudo.github.io/ko/work/dumbguys/), [Cylinder](https://ysl-ryudo.github.io/ko/work/cylinder/), [RE:BOUND](https://ysl-ryudo.github.io/ko/work/rebound/), [Moonlit Hotel](https://ysl-ryudo.github.io/ko/work/moonlit/), [PitchLab](https://ysl-ryudo.github.io/ko/work/pitchlab/)
 

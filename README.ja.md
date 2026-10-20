@@ -16,9 +16,9 @@ C++ゲームサーバー、UnityのゲームプレイとUI、コンテンツ制�
 
 | プロジェクト | 担当した実装 | 関連リンク |
 |---|---|---|
-| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | 購入状態の一貫性、Unity報酬演出、段階的な試合復元。 | [公開紹介](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 非公開・アクセス権が必要<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 非公開・アクセス権が必要 |
-| [Arcana Duel](https://ysl-ryudo.github.io/ja/work/magicwar/) | IOCPワーカー・リソースプール・DB処理の分離。 | [公開紹介](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 非公開・アクセス権が必要<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 非公開・アクセス権が必要 |
-| [Slap Squad](https://ysl-ryudo.github.io/ja/work/bnb/) | Winsockサーバー・マルチプレイヤー連携・価格政策研究。 | [BNB](https://github.com/YSL-RyuDo/BNB), 公開リポジトリ<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 公開リポジトリ |
+| [CodeName VAIS](https://ysl-ryudo.github.io/ja/work/vector/) | C++サーバー、試合進行と能力連携、プロフィール編集、ソーシャル機能、Unity制作ツール。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/vector/#full-scope) | [公開紹介](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer), 非公開・アクセス権が必要<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 非公開・アクセス権が必要 |
+| [Arcana Duel](https://ysl-ryudo.github.io/ja/work/magicwar/) | 魔法デッキ、キャラクター操作、弾と領域効果、戦闘UIとIOCPサーバー。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/magicwar/#full-scope) | [公開紹介](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver), 非公開・アクセス権が必要<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 非公開・アクセス権が必要 |
+| [Slap Squad](https://ysl-ryudo.github.io/ja/work/bnb/) | 7種の武器、移動とマップ操作、試合結果、C++サーバーと価格政策研究。<br>[担当実装の全体](https://ysl-ryudo.github.io/ja/work/bnb/#full-scope) | [BNB](https://github.com/YSL-RyuDo/BNB), 公開リポジトリ<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 公開リポジトリ |
 
 **その他の開発：** [DeathGuider](https://ysl-ryudo.github.io/ja/work/deathguider/), [DumbGuys](https://ysl-ryudo.github.io/ja/work/dumbguys/), [Cylinder](https://ysl-ryudo.github.io/ja/work/cylinder/), [RE:BOUND](https://ysl-ryudo.github.io/ja/work/rebound/), [Moonlit Hotel](https://ysl-ryudo.github.io/ja/work/moonlit/), [PitchLab](https://ysl-ryudo.github.io/ja/work/pitchlab/)
 
