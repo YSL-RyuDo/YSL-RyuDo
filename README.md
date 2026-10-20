@@ -8,9 +8,9 @@
 
 ### Aspiring game server programmer, M.S. student
 
-I have built C++ game servers and implemented gameplay and UI in Unity.
+I am interested in multiplayer server architecture and state synchronization.
 
-Currently developing CodeName VAIS.
+I am pursuing an M.S. in Games (Engineering) at Hongik University, Sejong Campus.
 
 [Portfolio](https://ysl-ryudo.github.io/en/), [Résumé](https://ysl-ryudo.github.io/en/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 

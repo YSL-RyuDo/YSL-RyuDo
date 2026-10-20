@@ -8,9 +8,9 @@
 
 ### 게임 서버 개발자 지망, 석사과정
 
-C++ 게임 서버와 Unity 게임플레이, UI를 구현했습니다.
+멀티플레이 게임의 서버 구조와 상태 동기화에 관심이 있습니다.
 
-현재 CodeName VAIS를 개발하고 있습니다.
+현재 홍익대학교 세종캠퍼스 게임학과(공학) 석사과정에 재학 중입니다.
 
 [Portfolio](https://ysl-ryudo.github.io/ko/), [이력서](https://ysl-ryudo.github.io/ko/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 

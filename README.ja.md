@@ -8,9 +8,9 @@
 
 ### ゲームサーバーエンジニア志望, 修士課程
 
-C++のゲームサーバーと、Unityのゲームプレイ、UIを実装してきました。
+マルチプレイヤーゲームのサーバー設計と状態同期に関心があります。
 
-現在はCodeName VAISを開発しています。
+現在、弘益大学校世宗キャンパスのゲーム学科（工学）修士課程に在籍しています。
 
 [Portfolio](https://ysl-ryudo.github.io/ja/), [履歴書](https://ysl-ryudo.github.io/ja/resume/), [YouTube](https://www.youtube.com/@%EC%9D%B4%EC%98%81%EC%83%81-e1q)
 
