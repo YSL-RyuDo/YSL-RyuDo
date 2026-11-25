@@ -50,7 +50,9 @@
 
 2025.11.27 ~ 28, 韓国・京畿道広州、昆池岩リゾート. **筆頭著者、ポスター発表.**
 
-[CNNを用いたゲーム内価格政策別の消費パターン分析](https://ysl-ryudo.github.io/ja/research/cisc/)
+[CNNを用いたゲーム内価格政策別の消費パターン分析](https://ysl-ryudo.github.io/ja/research/cisc/), [GitHub](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)
+
+<a href="https://ysl-ryudo.github.io/ja/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="CISC-W 2025, 学会発表ポスター" width="260"></a>
 
 ### WISA 2026
 
@@ -58,15 +60,25 @@
 
 2026.08.26 ~ 28, 韓国・済州、MAISON GLAD. **筆頭著者、ポスター発表.**
 
-[C2PA Manifest検証と知覚ハッシュに基づく類似度分析によるゲーム画像アセット検証](https://ysl-ryudo.github.io/ja/research/wisa/)
+[C2PA Manifest検証と知覚ハッシュに基づく類似度分析によるゲーム画像アセット検証](https://ysl-ryudo.github.io/ja/research/wisa/), [GitHub](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification)
+
+<a href="https://ysl-ryudo.github.io/ja/research/wisa/#poster"><img src="https://ysl-ryudo.github.io/assets/research/wisa-poster-thumb.webp" alt="WISA 2026, 学会発表ポスター" width="260"></a>
+
+### KSAVS 2026
+
+[韓国ソフトウェア鑑定評価学会 第45回秋季学術大会](https://ksavs.or.kr/board/board.asp?Action=content&B_CATE=BBS2&GotoPage=1&b_code=33)
+
+2026.11.05 ~ 07, 韓国・済州、Hotel Whistle Lark. **筆頭著者、口頭発表.**
+
+[ソフトウェア構成要素の出所識別手法に関する比較分析](https://ysl-ryudo.github.io/ja/research/ksavs/), [GitHub](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
 
 ### ICEA 2026
 
 [International Conference on Intelligent Computing and its Emerging Applications](https://icea-conf.github.io/2026/)
 
-2026.11.19 ~ 22, 台湾・高雄. **論文採択、高雄で発表予定、研究を拡張中.**
+2026.11.19 ~ 22, 台湾・高雄. **論文採択、研究を拡張中.**
 
-[異種ゲームMODパッケージのサーバー側複数出所復元](https://ysl-ryudo.github.io/ja/research/mod/)
+[異種ゲームMODパッケージのサーバー側複数出所復元](https://ysl-ryudo.github.io/ja/research/mod/), [GitHub](https://github.com/YSL-RyuDo/icea-2026-mod-provenance-research)
 
 ## 2025 第1回 I2P-CON, 運営チームリーダー・登壇者
 

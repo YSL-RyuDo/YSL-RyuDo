@@ -50,7 +50,9 @@ Served as Software Team Lead in 2025. The C programming and computer architectur
 
 27 ~ 28 Nov 2025, Konjiam Resort, Gwangju, Korea. **First author, poster presenter.**
 
-[Consumption Pattern Analysis of In-Game Pricing Policies Using Convolutional Neural Networks](https://ysl-ryudo.github.io/en/research/cisc/)
+[Consumption Pattern Analysis of In-Game Pricing Policies Using Convolutional Neural Networks](https://ysl-ryudo.github.io/en/research/cisc/), [GitHub](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)
+
+<a href="https://ysl-ryudo.github.io/en/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="CISC-W 2025, Conference poster" width="260"></a>
 
 ### WISA 2026
 
@@ -58,15 +60,25 @@ Served as Software Team Lead in 2025. The C programming and computer architectur
 
 26 ~ 28 Aug 2026, MAISON GLAD, Jeju, Korea. **First author, poster presenter.**
 
-[A Verification Method for Game Image Assets Using C2PA Manifest Validation and Perceptual Hash-Based Similarity Analysis](https://ysl-ryudo.github.io/en/research/wisa/)
+[A Verification Method for Game Image Assets Using C2PA Manifest Validation and Perceptual Hash-Based Similarity Analysis](https://ysl-ryudo.github.io/en/research/wisa/), [GitHub](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification)
+
+<a href="https://ysl-ryudo.github.io/en/research/wisa/#poster"><img src="https://ysl-ryudo.github.io/assets/research/wisa-poster-thumb.webp" alt="WISA 2026, Conference poster" width="260"></a>
+
+### KSAVS 2026
+
+[45th Fall Conference of the Korea Software Assessment and Valuation Society](https://ksavs.or.kr/board/board.asp?Action=content&B_CATE=BBS2&GotoPage=1&b_code=33)
+
+5 ~ 7 Nov 2026, Hotel Whistle Lark, Jeju, Korea. **First author, oral presenter.**
+
+[A Comparative Analysis of Software Component Provenance Identification Techniques](https://ysl-ryudo.github.io/en/research/ksavs/), [GitHub](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
 
 ### ICEA 2026
 
 [International Conference on Intelligent Computing and its Emerging Applications](https://icea-conf.github.io/2026/)
 
-19 ~ 22 Nov 2026, Kaohsiung, Taiwan. **Accepted, presentation planned in Kaohsiung, research extensions in progress.**
+19 ~ 22 Nov 2026, Kaohsiung, Taiwan. **Accepted paper, research extensions in progress.**
 
-[Server-Side Multi-Parent Provenance Reconstruction in Heterogeneous Game MOD Packages](https://ysl-ryudo.github.io/en/research/mod/)
+[Server-Side Multi-Parent Provenance Reconstruction in Heterogeneous Game MOD Packages](https://ysl-ryudo.github.io/en/research/mod/), [GitHub](https://github.com/YSL-RyuDo/icea-2026-mod-provenance-research)
 
 ## 2025 inaugural I2P-CON, Operations Team Lead & Speaker
 
