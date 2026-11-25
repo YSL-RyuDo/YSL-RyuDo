@@ -20,9 +20,9 @@
 
 | 프로젝트 | 담당 작업 | 프로젝트 링크 |
 |---|---|---|
-| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ 서버, 경기 흐름과 캐릭터 능력 연동, 프로필 편집과 소셜 기능, Unity 제작 도구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/vector/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/codename-vais)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServer-public), 공개 소스<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 공개 저장소 |
-| [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | 마법 덱, 캐릭터 조작과 투사체 및 장판, 전투 UI와 IOCP 서버.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/magicwar/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/arcana-duel)<br>[magicwarserver](https://github.com/YSL-RyuDo/magicwarserver-public), 공개 소스<br>[magicwar](https://github.com/YSL-RyuDo/magicwar), 공개 저장소 |
-| [슬랩스쿼드, Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | 무기 7종, 이동과 맵 상호작용, 경기 결과, C++ 서버와 가격정책 연구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/bnb/#full-scope) | [BNB](https://github.com/YSL-RyuDo/BNB), 공개 저장소<br>[BnBServer](https://github.com/YSL-RyuDo/BnBServer), 공개 저장소 |
+| [코드네임 바이스, CodeName VAIS](https://ysl-ryudo.github.io/ko/work/vector/) | C++ 서버, 경기 흐름과 캐릭터 능력 연동, 프로필 편집과 소셜 기능, Unity 제작 도구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/vector/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/CodeNameVAIS)<br>[ProjectVectorServer](https://github.com/YSL-RyuDo/ProjectVectorServerPublic), 공개 소스<br>[projectVector](https://github.com/YSL-RyuDo/projectVector), 공개 저장소 |
+| [아르카나 듀얼, Arcana Duel](https://ysl-ryudo.github.io/ko/work/magicwar/) | 마법 덱, 캐릭터 조작과 투사체 및 장판, 전투 UI와 IOCP 서버.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/magicwar/#full-scope) | [공개 포트폴리오](https://github.com/YSL-RyuDo/ArcanaDuel)<br>[Arcana Duel Server](https://github.com/YSL-RyuDo/ArcanaDuelServerPublic), 공개 소스<br>[Arcana Duel Client](https://github.com/YSL-RyuDo/ArcanaDuelClient), 공개 저장소 |
+| [슬랩스쿼드, Slap Squad](https://ysl-ryudo.github.io/ko/work/bnb/) | 무기 7종, 이동과 맵 상호작용, 경기 결과, C++ 서버와 가격정책 연구.<br>[전체 담당 구현](https://ysl-ryudo.github.io/ko/work/bnb/#full-scope) | [Slap Squad](https://github.com/YSL-RyuDo/SlapSquad), 공개 저장소<br>[Slap Squad Server](https://github.com/YSL-RyuDo/SlapSquadServer), 공개 저장소 |
 
 **다른 개발:** [DeathGuider](https://ysl-ryudo.github.io/ko/work/deathguider/), [DumbGuys](https://ysl-ryudo.github.io/ko/work/dumbguys/), [Cylinder](https://ysl-ryudo.github.io/ko/work/cylinder/), [RE:BOUND](https://ysl-ryudo.github.io/ko/work/rebound/), [Moonlit Hotel](https://ysl-ryudo.github.io/ko/work/moonlit/), [PitchLab](https://ysl-ryudo.github.io/ko/work/pitchlab/)
 
@@ -44,15 +44,15 @@
 
 ## 연구와 발표
 
-### CISC-W 2025
+### CISC W 2025
 
 [2025 한국정보보호학회 동계학술대회](https://kiisc.or.kr/payment/pay/292)
 
 2025.11.27 ~ 28, 경기도 광주 곤지암 리조트. **제1저자, 포스터 발표.**
 
-[CNN 기반 게임 내 가격정책별 소비패턴 분석](https://ysl-ryudo.github.io/ko/research/cisc/), [GitHub](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)
+[CNN 기반 게임 내 가격정책별 소비패턴 분석](https://ysl-ryudo.github.io/ko/research/cisc/), [GitHub](https://github.com/YSL-RyuDo/CISCW2025GameEconomy)
 
-<a href="https://ysl-ryudo.github.io/ko/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="CISC-W 2025, 학회 발표 포스터" width="260"></a>
+<a href="https://ysl-ryudo.github.io/ko/research/cisc/#poster"><img src="https://ysl-ryudo.github.io/assets/research/cisc-poster-thumb.webp" alt="CISC W 2025, 학회 발표 포스터" width="260"></a>
 
 ### WISA 2026
 
@@ -60,7 +60,7 @@
 
 2026.08.26 ~ 28, 제주 메종 글래드. **제1저자, 포스터 발표.**
 
-[C2PA Manifest 검증과 지각 해시 기반 유사도 분석을 이용한 게임 이미지 에셋 검증](https://ysl-ryudo.github.io/ko/research/wisa/), [GitHub](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification)
+[C2PA Manifest 검증과 지각 해시 기반 유사도 분석을 이용한 게임 이미지 에셋 검증](https://ysl-ryudo.github.io/ko/research/wisa/), [GitHub](https://github.com/YSL-RyuDo/WISA2026GameAssetVerification)
 
 <a href="https://ysl-ryudo.github.io/ko/research/wisa/#poster"><img src="https://ysl-ryudo.github.io/assets/research/wisa-poster-thumb.webp" alt="WISA 2026, 학회 발표 포스터" width="260"></a>
 
@@ -70,7 +70,7 @@
 
 2026.11.05 ~ 07, 제주 휘슬락호텔. **제1저자, 구두 발표.**
 
-[소프트웨어 구성요소 출처 식별 기법에 대한 비교분석](https://ysl-ryudo.github.io/ko/research/ksavs/), [GitHub](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+[소프트웨어 구성요소 출처 식별 기법에 대한 비교분석](https://ysl-ryudo.github.io/ko/research/ksavs/), [GitHub](https://github.com/YSL-RyuDo/KSAVS2026SoftwareProvenanceSurvey)
 
 ### ICEA 2026
 
@@ -78,17 +78,17 @@
 
 2026.11.19 ~ 22, 대만 가오슝. **논문 채택, 후속 연구 확장 중.**
 
-[이종 게임 MOD 패키지의 서버 기반 다중 출처 복원](https://ysl-ryudo.github.io/ko/research/mod/), [GitHub](https://github.com/YSL-RyuDo/icea-2026-mod-provenance-research)
+[이종 게임 MOD 패키지의 서버 기반 다중 출처 복원](https://ysl-ryudo.github.io/ko/research/mod/), [GitHub](https://github.com/YSL-RyuDo/ICEA2026ModProvenanceResearch)
 
-## 2025 제1회 I2P-CON, 운영팀장, 발표자
+## 2025 제1회 I2P CON, 운영팀장, 발표자
 
 직접 운영팀을 모으고 운영팀장을 맡아 I2P × O2CUBE 공동 주최의 제1회 재학생 게임 개발 컨퍼런스를 개최했습니다.
 
-CNN 가격정책 연구를 「데이터로 설계하는 게임 경제」로 직접 발표했습니다. 교내 발표 이후 연구를 보완해 CISC-W 2025 학회 포스터로 발표했습니다.
+CNN 가격정책 연구를 「데이터로 설계하는 게임 경제」로 직접 발표했습니다. 교내 발표 이후 연구를 보완해 CISC W 2025 학회 포스터로 발표했습니다.
 
 컨퍼런스지를 제작해 재학생과 졸업생에게 배포했습니다. 공식 재생목록에는 발표 영상 8개가 공개되어 있습니다.
 
-[내 발표 영상](https://www.youtube.com/watch?v=oq_e0TAwvJg), [I2P-CON](https://www.youtube.com/playlist?list=PLasCP_DA1SqCpSkwDldbMDsLXMayEEKgu)
+[내 발표 영상](https://www.youtube.com/watch?v=oq_e0TAwvJg), [I2P CON](https://www.youtube.com/playlist?list=PLasCP_DA1SqCpSkwDldbMDsLXMayEEKgu)
 
 ### GCT Lab
 
